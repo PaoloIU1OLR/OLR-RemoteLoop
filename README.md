@@ -2,7 +2,7 @@
 
 Comando wireless per una **loop magnetica** (il condensatore variabile ad aria) via motore passo-passo, pilotabile **dal solo cellulare** tramite pagina web — nessun dispositivo aggiuntivo richiesto (niente Cardputer, niente PC sul campo). Pensato per attività radioamatoriali in portatile (POTA, SOTA, QRP all'aperto).
 
-Autore: **IU1OLR**
+Autore: **IU1OLR** — canale YouTube: [youtube.com/@iu1olr](https://www.youtube.com/@iu1olr)
 
 ## Cos'è
 
